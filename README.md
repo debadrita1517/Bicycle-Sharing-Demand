@@ -1,5 +1,5 @@
 # Bicycle-Sharing-Demand
-### |Domain –Transportation Industry|
+### Domain: Transportation Industry | Tech Used : pySpark
 
 ## Business challenge/requirement :
 With the spike in pollution levels and the fuel prices, many Bicycle Sharing Programs are
